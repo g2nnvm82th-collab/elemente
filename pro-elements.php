@@ -1,5 +1,8 @@
 <?php
 /**
+ * Plugin Name: Pro Elements (My Fork)
+ * GitHub Plugin URI: g2nnvm82th-collab/elemente
+ * Primary Branch: master
  * Plugin Name: PRO Elements
  * Description: Adds professional features for sites using the Elementor page builder.
  * Plugin URI: https://proelements.org/
@@ -11,6 +14,7 @@
  * Requires Plugins: elementor
  * Elementor tested up to: 3.35.0
  * Text Domain: pro-elements
+ 
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
