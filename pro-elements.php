@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Pro Elements (My Fork)
- * GitHub Plugin URI: g2nnvm82th-collab/elemente
+ * GitHub Plugin URI: https://github.com/g2nnvm82th-collab/elemente.git
  * Primary Branch: master
  * Plugin Name: PRO Elements
  * Description: Adds professional features for sites using the Elementor page builder.
